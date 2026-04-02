@@ -24,9 +24,13 @@ Hands-on practice with Git using the command line, including version control ope
 ## 🛠️ Technologies
 
 * Python
-* C / C++ (si aplica)
+* Java
 * Pygame
 * Git & GitHub
+* VSCode
+* VirtualBox
+* Docker
+* Ansible
 
 ---
 
