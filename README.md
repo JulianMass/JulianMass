@@ -40,6 +40,6 @@ Hands-on practice with Git using the command line, including version control ope
 ## 📫 Contact
 
 * Email: [julianmas97@gmail.com]
-* LinkedIn: [(https://www.linkedin.com/in/julián-mas-4a7606233/]
+* LinkedIn: [https://www.linkedin.com/in/julián-mas-4a7606233/]
 
 ---
