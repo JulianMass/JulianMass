@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Julián 👋
 
-<!--
-**JulianMass/JulianMass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programming student focused on building practical projects using different technologies.
+I enjoy working on problem-solving, game development, and learning development tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🎮 Pygame 80s Music Trivia Game
+
+Interactive trivia game built with Pygame featuring scoring system, lives, sound effects, and leaderboard.
+
+### 📊 Participant Evaluation System
+
+Application for managing and ranking participants using matrix-based data processing and average calculations.
+
+### ⚙️ Git CLI Workflow
+
+Hands-on practice with Git using the command line, including version control operations and command history.
+
+---
+
+## 🛠️ Technologies
+
+* Python
+* C / C++ (si aplica)
+* Pygame
+* Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+* Data structures
+* Backend development
+
+---
+
+## 📫 Contact
+
+* Email: [julianmas97@gmail.com]
+* LinkedIn: [(https://www.linkedin.com/in/julián-mas-4a7606233/]
+
+---
