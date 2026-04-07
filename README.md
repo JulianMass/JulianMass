@@ -38,6 +38,8 @@ Hands-on practice with Git using the command line, including version control ope
 
 * Data structures
 * Backend development
+* Databases (SQL)
+* Object Oriented Programming
 
 ---
 
