@@ -25,6 +25,7 @@ Hands-on practice with Git using the command line, including version control ope
 
 * Python
 * Java
+* MySQL
 * Pygame
 * Git & GitHub
 * VSCode
