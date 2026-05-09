@@ -1,7 +1,7 @@
 # Hi, I'm Julián 👋
 
 I'm a programming student focused on building practical projects using different technologies.
-I enjoy working on problem-solving, game development, and learning development tools.
+I enjoy working on problem-solving, database analysis and learning development tools.
 
 ---
 
