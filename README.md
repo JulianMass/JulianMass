@@ -1,6 +1,6 @@
 # Hi, I'm Julián 👋
 
-I'm a programming student focused on building practical projects using different technologies.
+I'm a Programming Technician student (UTN) focused on building practical projects using different technologies.
 I enjoy working on problem-solving, database analysis and learning development tools.
 
 ---
@@ -29,6 +29,7 @@ Hands-on practice with Git using the command line, including version control ope
 * Pygame
 * Git & GitHub
 * VSCode
+* Apache NetBeans
 * VirtualBox
 * Docker
 * Ansible
